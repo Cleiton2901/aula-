@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  padding: 0px;
+ }
+
+@font-face {
+  font-family: 'Skill';
+  src:url(../fontes/FuzzyBubbles-Regular.ttf);
+}
+
+.principal {
+  font-family: 'Skill';
+  background-color: rgb(255, 255, 255);
+  width: 1200px;
+  height: 768px;
+  margin:auto;
+  margin-top: 30px; 
+  padding: 30px;
+  text-align: center;
+}
